@@ -1,0 +1,5 @@
+com\github\ffrancoc\crudapp\Conexion.class
+com\github\ffrancoc\crudapp\App.class
+com\github\ffrancoc\crudapp\models\Producto.class
+com\github\ffrancoc\crudapp\PrimaryController.class
+module-info.class
